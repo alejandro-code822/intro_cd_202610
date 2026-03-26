@@ -12,3 +12,6 @@ Felices, estamos haciendo el readme en la clase.
 
 Imagen simple
 ![Texto alternativo](IMG_9374.PNG)
+
+Imagen desde URL externa
+![Logo](https://github.com/alejandro-code822/intro_cd_202610/blob/main/IMG_9374.PNG)
