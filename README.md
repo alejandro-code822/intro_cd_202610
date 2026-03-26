@@ -15,3 +15,11 @@ Imagen simple
 
 Imagen desde URL externa
 ![Logo](https://github.com/alejandro-code822/intro_cd_202610/blob/main/IMG_9374.PNG)
+
+Formato de Texto
+
+**negrita**
+
+*cursiva*
+
+~~tachado~~
